@@ -1,6 +1,8 @@
 # EnBirdWDI
 #Endangered birds count
 # Run the following first
+library("devtools")
+library(roxygen2)
 library(raster)
 library(rgdal)
 library(WDI)
