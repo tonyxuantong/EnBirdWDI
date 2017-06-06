@@ -9,3 +9,5 @@ library(WDI)
 library(leaflet)
 # Then install Through
 devtools::install_github("tonyxuantong/EnBirdWDI")
+# Test using
+ENBird::WorldBankData_function()
